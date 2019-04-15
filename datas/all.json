@@ -1,5 +1,5 @@
-{
-    {
+[
+      {
         thumb: '/img/products/01.webp',
         title: '61 900 ₽',
         desc: 'Смартфон Google Pixel 3 XL 128Gb Black (Черный)'
@@ -50,4 +50,4 @@
         title: '63 990 ₽',
         desc: 'Смартфон Apple iPhone X 64GB Silver (MQAD2RU/A)'
       }
-}
+    ]
