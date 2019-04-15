@@ -1,0 +1,53 @@
+{
+    {
+        thumb: '/img/products/01.webp',
+        title: '61 900 ₽',
+        desc: 'Смартфон Google Pixel 3 XL 128Gb Black (Черный)'
+      }, 
+      {
+        thumb: '/img/products/02.webp',
+        title: '61 900 ₽',
+        desc: 'Смартфон Google Pixel 3 XL 128Gb Black (Черный)'
+      },
+      {
+        thumb: '/img/products/03.webp',
+        title: '68 990 ₽',
+        desc: 'iPhone X 256GB как новый (серый космос)',
+        ribbon: true
+      },
+      {
+        thumb: '/img/products/04.webp',
+        title: '63 990 ₽',
+        desc: 'Смартфон Apple iPhone X 64GB Silver (MQAD2RU/A)'
+      },
+      {
+        thumb: '/img/products/02.webp',
+        title: '61 900 ₽',
+        desc: 'Смартфон Google Pixel 3 XL 128Gb Black (Черный)'
+      },
+      {
+        thumb: '/img/products/03.webp',
+        title: '68 990 ₽',
+        desc: 'iPhone X 256GB как новый (серый космос)'
+      },
+      {
+        thumb: '/img/products/04.webp',
+        title: '63 990 ₽',
+        desc: 'Смартфон Apple iPhone X 64GB Silver (MQAD2RU/A)'
+      },
+      {
+        thumb: '/img/products/02.webp',
+        title: '61 900 ₽',
+        desc: 'Смартфон Google Pixel 3 XL 128Gb Black (Черный)'
+      },
+      {
+        thumb: '/img/products/03.webp',
+        title: '68 990 ₽',
+        desc: 'iPhone X 256GB как новый (серый космос)'
+      },
+      {
+        thumb: '/img/products/04.webp',
+        title: '63 990 ₽',
+        desc: 'Смартфон Apple iPhone X 64GB Silver (MQAD2RU/A)'
+      }
+}
